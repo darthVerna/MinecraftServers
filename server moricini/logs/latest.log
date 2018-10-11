@@ -1,0 +1,13 @@
+[00:01:21] [Server thread/INFO]: Selya has reached the goal [Beaconator]
+[00:01:21] [Server thread/INFO]: Selya has made the advancement [Bring Home the Beacon]
+[00:04:30] [Server thread/INFO]: Selya lost connection: Disconnected
+[00:04:31] [Server thread/INFO]: Selya left the game
+[00:09:32] [Server thread/INFO]: Verna lost connection: Disconnected
+[00:09:32] [Server thread/INFO]: Verna left the game
+[00:10:47] [Server thread/INFO]: Stopping the server
+[00:10:47] [Server thread/INFO]: Stopping server
+[00:10:47] [Server thread/INFO]: Saving players
+[00:10:47] [Server thread/INFO]: Saving worlds
+[00:10:47] [Server thread/INFO]: Saving chunks for level 'ServerMoricini_nether'/minecraft:the_nether
+[00:10:47] [Server thread/INFO]: Saving chunks for level 'ServerMoricini_the_end'/minecraft:the_end
+[00:10:47] [Server thread/INFO]: Saving chunks for level 'ServerMoricini'/minecraft:overworld

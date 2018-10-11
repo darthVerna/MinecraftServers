@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "15edf776-2a84-3ec0-9b32-ebc2c17b0d6b",
+    "name": "Verna",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "38e144cd-3d12-3ac4-aeef-75703c0c3a75",
+    "name": "DarthVerna",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
