@@ -1,156 +1,185 @@
-[21:11:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:11:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:11:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:11:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:11:15] [main/INFO]: Loaded 0 recipes
-[21:11:15] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[21:11:15] [Server thread/INFO]: Loading properties
-[21:11:15] [Server thread/INFO]: Default game type: SURVIVAL
-[21:11:15] [Server thread/INFO]: Generating keypair
-[21:11:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:11:15] [Server thread/INFO]: Using default channel type
-[21:11:16] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-4228a56 (MC: 1.13.1) (Implementing API version 1.13.1-R0.1-SNAPSHOT)
-[21:11:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:11:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:11:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:11:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:11:16] [Server thread/INFO]: Preparing level "29092018Server"
-[21:11:16] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[21:11:17] [Server thread/INFO]: Loaded 524 recipes
-[21:11:18] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -1603393826086761327)
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 4%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 8%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 12%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 16%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 20%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 24%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 28%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 32%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 36%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 40%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 44%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 48%
-[21:11:18] [Server thread/INFO]: Preparing spawn area: 52%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 56%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 60%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 64%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 68%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 72%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 76%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 80%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 84%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 88%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 92%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 96%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 100%
-[21:11:19] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -1603393826086761327)
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 4%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 8%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 12%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 16%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 20%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 24%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 28%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 32%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 36%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 40%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 44%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 48%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 52%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 56%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 60%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 64%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 68%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 72%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 76%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 80%
-[21:11:19] [Server thread/INFO]: Preparing spawn area: 84%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 88%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 92%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 96%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 100%
-[21:11:20] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -1603393826086761327)
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 4%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 8%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 12%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 16%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 20%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 24%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 28%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 32%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 36%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 40%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 44%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 48%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 52%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 56%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 60%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 64%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 68%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 72%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 76%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 80%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 84%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 88%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 92%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 96%
-[21:11:20] [Server thread/INFO]: Preparing spawn area: 100%
-[21:11:20] [Server thread/INFO]: Time elapsed: 1928 ms
-[21:11:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:11:20] [Server thread/INFO]: Done (3.895s)! For help, type "help"
-[21:18:15] [Server thread/INFO]: DarthVerna[/127.0.0.1:65349] logged in with entity id 173 at ([29092018Server]102.99084951664405, 11.0, 57.9768617623434)
-[21:21:20] [Server thread/INFO]: krakauder[/151.16.149.15:53108] logged in with entity id 1850 at ([29092018Server]167.3615289304055, 63.0, 68.95341921120732)
-[21:25:31] [Server thread/INFO]: krakauder lost connection: Disconnected
-[21:25:31] [Server thread/INFO]: krakauder left the game
-[21:25:34] [Server thread/INFO]: krakauder[/151.16.149.15:53163] logged in with entity id 5302 at ([29092018Server]140.4252529310298, 52.0, 68.38584566247916)
-[21:31:42] [Server thread/WARN]: krakauder moved too quickly! -0.07840623287266624,0.0,29.556266970302204
-[21:34:57] [Server thread/INFO]: DarthVerna has made the advancement [Ice Bucket Challenge]
-[21:35:11] [Server thread/INFO]: krakauder has made the advancement [Ice Bucket Challenge]
-[21:41:41] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:item_frame 3
-[21:41:42] [Server thread/INFO]: [DarthVerna: Gave 3 [Item Frame] to DarthVerna]
-[21:47:53] [Server thread/INFO]: krakauder has made the advancement [The Parrots and the Bats]
-[21:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
-[21:48:50] [Server thread/WARN]: krakauder moved too quickly! -0.29294585432469944,0.0,11.212587396695312
-[21:52:53] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_fence 50
-[21:52:53] [Server thread/INFO]: [DarthVerna: Gave 50 [Oak Fence] to DarthVerna]
-[21:53:26] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:stone_pressure_plate
-[21:53:26] [Server thread/INFO]: [DarthVerna: Gave 1 [Stone Pressure Plate] to DarthVerna]
-[21:54:12] [Server thread/INFO]: krakauder fell from a high place
-[21:57:23] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:stone_pressure_plate
-[21:57:23] [Server thread/INFO]: [DarthVerna: Gave 1 [Stone Pressure Plate] to DarthVerna]
-[21:59:47] [Server thread/INFO]: krakauder was shot by Skeleton
-[21:59:57] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_planks 64
-[21:59:57] [Server thread/INFO]: [DarthVerna: Gave 64 [Oak Planks] to DarthVerna]
-[22:04:10] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:stone_pressure_plate 3
-[22:04:10] [Server thread/INFO]: [DarthVerna: Gave 3 [Stone Pressure Plate] to DarthVerna]
-[22:11:04] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:stone_pressure_plate 3
-[22:11:04] [Server thread/INFO]: [DarthVerna: Gave 3 [Stone Pressure Plate] to DarthVerna]
-[22:18:02] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_fence 50
-[22:18:02] [Server thread/INFO]: [DarthVerna: Gave 50 [Oak Fence] to DarthVerna]
-[22:47:33] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_planks 64
-[22:47:33] [Server thread/INFO]: [DarthVerna: Gave 64 [Oak Planks] to DarthVerna]
-[22:53:17] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_planks 64
-[22:53:17] [Server thread/INFO]: [DarthVerna: Gave 64 [Oak Planks] to DarthVerna]
-[23:02:40] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_planks 64
-[23:02:40] [Server thread/INFO]: [DarthVerna: Gave 64 [Oak Planks] to DarthVerna]
-[23:19:40] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:dirt 64
-[23:19:40] [Server thread/INFO]: [DarthVerna: Gave 64 [Dirt] to DarthVerna]
-[23:20:29] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_planks 64
-[23:20:29] [Server thread/INFO]: [DarthVerna: Gave 64 [Oak Planks] to DarthVerna]
-[23:20:53] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_log 64
-[23:20:53] [Server thread/INFO]: [DarthVerna: Gave 64 [Oak Log] to DarthVerna]
-[23:21:42] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:oak_fence 50
-[23:21:42] [Server thread/INFO]: [DarthVerna: Gave 50 [Oak Fence] to DarthVerna]
-[23:23:08] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:torch 50
-[23:23:08] [Server thread/INFO]: [DarthVerna: Gave 50 [Torch] to DarthVerna]
-[23:32:59] [Server thread/INFO]: krakauder lost connection: Disconnected
-[23:32:59] [Server thread/INFO]: krakauder left the game
-[23:33:08] [Server thread/INFO]: DarthVerna lost connection: Disconnected
-[23:33:08] [Server thread/INFO]: DarthVerna left the game
-[23:33:18] [Server thread/INFO]: Stopping the server
-[23:33:18] [Server thread/INFO]: Stopping server
-[23:33:18] [Server thread/INFO]: Saving players
-[23:33:18] [Server thread/INFO]: Saving worlds
-[23:33:18] [Server thread/INFO]: Saving chunks for level '29092018Server'/minecraft:overworld
-[23:33:18] [Server thread/INFO]: Saving chunks for level '29092018Server_nether'/minecraft:the_nether
-[23:33:18] [Server thread/INFO]: Saving chunks for level '29092018Server_the_end'/minecraft:the_end
+[21:14:20] [main/INFO]: Loaded 0 recipes
+[21:14:20] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[21:14:20] [Server thread/INFO]: Loading properties
+[21:14:20] [Server thread/INFO]: Default game type: SURVIVAL
+[21:14:20] [Server thread/INFO]: Generating keypair
+[21:14:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:14:20] [Server thread/INFO]: Using default channel type
+[21:14:21] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3359cb1 (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[21:14:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:14:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:14:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:14:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:14:21] [Server thread/INFO]: Preparing level "29092018Server"
+[21:14:21] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:14:22] [Server thread/INFO]: Loaded 524 recipes
+[21:14:24] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -1603393826086761327)
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 4%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 8%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 12%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 16%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 20%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 24%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 28%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 32%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 36%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 40%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 44%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 48%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 52%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 56%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 60%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 64%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 68%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 72%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 76%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 80%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 84%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 88%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 92%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 96%
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 100%
+[21:14:24] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -1603393826086761327)
+[21:14:24] [Server thread/INFO]: Preparing spawn area: 4%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 8%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 12%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 16%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 20%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 24%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 28%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 32%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 36%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 40%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 44%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 48%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 52%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 56%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 60%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 64%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 68%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 72%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 76%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 80%
+[21:14:25] [Server thread/INFO]: Preparing spawn area: 84%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 88%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 92%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 96%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 100%
+[21:14:26] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -1603393826086761327)
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 4%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 8%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 12%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 16%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 20%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 24%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 28%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 32%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 36%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 40%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 44%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 48%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 52%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 56%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 60%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 64%
+[21:14:26] [Server thread/INFO]: Preparing spawn area: 68%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 72%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 76%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 80%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 84%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 88%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 92%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 96%
+[21:14:27] [Server thread/INFO]: Preparing spawn area: 100%
+[21:14:27] [Server thread/INFO]: Time elapsed: 3165 ms
+[21:14:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:14:27] [Server thread/INFO]: Done (5.744s)! For help, type "help"
+[21:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4988ms or 99 ticks behind
+[21:16:20] [Server thread/INFO]: krakauder[/127.0.0.1:65441] logged in with entity id 429 at ([29092018Server]-472.42078333165404, 69.0, 443.30379004282395)
+[21:16:54] [Server thread/INFO]: Set krakauder's game mode to Creative Mode
+[21:18:05] [Server thread/INFO]: Incorrect argument for command
+[21:18:05] [Server thread/INFO]: /gamemode krakauder survival<--[HERE]
+[21:18:24] [Server thread/INFO]: Incorrect argument for command
+[21:18:24] [Server thread/INFO]: /gamemode krakauder survival<--[HERE]
+[21:18:32] [Server thread/INFO]: Incorrect argument for command
+[21:18:32] [Server thread/INFO]: /gamemode krakauder 0<--[HERE]
+[21:18:42] [Server thread/INFO]: DarthVerna[/127.0.0.1:49207] logged in with entity id 1685 at ([29092018Server]-400.00041672336386, 63.0, 552.5387897477402)
+[21:18:53] [Server thread/INFO]: DarthVerna issued server command: /gamemode survival krakauder
+[21:18:53] [Server thread/INFO]: [DarthVerna: Set krakauder's game mode to Survival Mode]
+[21:18:56] [Server thread/INFO]: krakauder lost connection: Disconnected
+[21:18:56] [Server thread/INFO]: krakauder left the game
+[21:19:09] [Server thread/INFO]: krakauder[/151.16.155.16:50670] logged in with entity id 2120 at ([29092018Server]-470.99697242969467, 69.0, 438.75909592824644)
+[21:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[21:19:30] [Server thread/WARN]: krakauder moved too quickly! -11.004008383488326,-0.17675927506424216,-3.0368035139826475
+[21:19:30] [Server thread/WARN]: DarthVerna moved too quickly! -0.40517149624878357,0.0,-14.799047378566797
+[21:20:22] [Server thread/INFO]: DarthVerna issued server command: /locate Stronghold
+[21:42:01] [Server thread/INFO]: DarthVerna tried to swim in lava to escape Zombie
+[21:47:39] [Server thread/INFO]: DarthVerna issued server command: /gamemode creative
+[21:47:39] [Server thread/INFO]: [DarthVerna: Set own game mode to Creative Mode]
+[21:48:09] [Server thread/INFO]: DarthVerna issued server command: /gamemode survival
+[21:48:09] [Server thread/INFO]: [DarthVerna: Set own game mode to Survival Mode]
+[21:49:28] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:water_bucket 2
+[21:49:28] [Server thread/INFO]: [DarthVerna: Gave 2 [Water Bucket] to DarthVerna]
+[21:50:07] [Server thread/INFO]: DarthVerna issued server command: /tp krakauder DarthVerna
+[21:50:07] [Server thread/INFO]: [DarthVerna: Teleported krakauder to DarthVerna]
+[21:51:38] [Server thread/INFO]: DarthVerna fell from a high place
+[21:52:03] [Server thread/INFO]: DarthVerna issued server command: /tp DarthVerna krakauder
+[21:52:03] [Server thread/INFO]: [DarthVerna: Teleported DarthVerna to krakauder]
+[21:55:47] [Server thread/INFO]: DarthVerna was slain by Cave Spider
+[21:55:50] [Server thread/INFO]: DarthVerna lost connection: Disconnected
+[21:55:50] [Server thread/INFO]: DarthVerna left the game
+[21:56:02] [Server thread/INFO]: DarthVerna[/127.0.0.1:51634] logged in with entity id 38936 at ([29092018Server]269.07679372067577, 67.0, 767.3000000119209)
+[21:56:17] [Server thread/INFO]: DarthVerna issued server command: /gam
+[21:56:22] [Server thread/INFO]: DarthVerna issued server command: /gamemode creative
+[21:56:22] [Server thread/INFO]: [DarthVerna: Set own game mode to Creative Mode]
+[21:56:31] [Server thread/INFO]: DarthVerna issued server command: /tp DarthVerna krakauder
+[21:56:31] [Server thread/INFO]: [DarthVerna: Teleported DarthVerna to krakauder]
+[21:57:04] [Server thread/INFO]: krakauder blew up
+[21:57:22] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:experience_bottle 30
+[21:57:22] [Server thread/INFO]: [DarthVerna: Gave 30 [Bottle o' Enchanting] to krakauder]
+[21:57:40] [Server thread/INFO]: DarthVerna issued server command: /tp krakauder DarthVerna
+[21:57:40] [Server thread/INFO]: [DarthVerna: Teleported krakauder to DarthVerna]
+[21:57:54] [Server thread/INFO]: krakauder was slain by Cave Spider
+[21:58:30] [Server thread/INFO]: krakauder lost connection: Disconnected
+[21:58:30] [Server thread/INFO]: krakauder left the game
+[22:00:02] [Server thread/INFO]: DarthVerna issued server command: /gamemode survival
+[22:00:02] [Server thread/INFO]: [DarthVerna: Set own game mode to Survival Mode]
+[22:00:14] [Server thread/INFO]: DarthVerna issued server command: /give DarthVerna minecraft:experience_bottle 60
+[22:00:14] [Server thread/INFO]: [DarthVerna: Gave 60 [Bottle o' Enchanting] to DarthVerna]
+[22:01:53] [Server thread/INFO]: krakauder[/127.0.0.1:52164] logged in with entity id 45677 at ([29092018Server]178.26062858718132, 63.0, 72.35903579522827)
+[22:02:00] [Server thread/INFO]: DarthVerna issued server command: /gamemode peaceful
+[22:02:12] [Server thread/INFO]: DarthVerna issued server command: /difficulty peaceful
+[22:02:12] [Server thread/INFO]: [DarthVerna: The difficulty has been set to Peaceful]
+[22:02:36] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:experience_bottle 160
+[22:02:36] [Server thread/INFO]: [DarthVerna: Gave 160 [Bottle o' Enchanting] to krakauder]
+[22:03:22] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:experience_bottle 6
+[22:03:22] [Server thread/INFO]: [DarthVerna: Gave 6 [Bottle o' Enchanting] to krakauder]
+[22:03:25] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:experience_bottle 64
+[22:03:25] [Server thread/INFO]: [DarthVerna: Gave 64 [Bottle o' Enchanting] to krakauder]
+[22:03:59] [Server thread/INFO]: DarthVerna issued server command: /give krakauder coal 256
+[22:03:59] [Server thread/INFO]: [DarthVerna: Gave 256 [Coal] to krakauder]
+[22:04:08] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:diamond_axe
+[22:04:08] [Server thread/INFO]: [DarthVerna: Gave 1 [Diamond Axe] to krakauder]
+[22:04:13] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:diamond_sword
+[22:04:13] [Server thread/INFO]: [DarthVerna: Gave 1 [Diamond Sword] to krakauder]
+[22:04:18] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:diamond_pickaxe
+[22:04:18] [Server thread/INFO]: [DarthVerna: Gave 1 [Diamond Pickaxe] to krakauder]
+[22:04:28] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:diamond_shovel
+[22:04:28] [Server thread/INFO]: [DarthVerna: Gave 1 [Diamond Shovel] to krakauder]
+[22:04:35] [Server thread/INFO]: DarthVerna issued server command: /give krakauder minecraft:diamond_chestplate
+[22:04:35] [Server thread/INFO]: [DarthVerna: Gave 1 [Diamond Chestplate] to krakauder]
+[22:05:42] [Server thread/INFO]: DarthVerna issued server command: /gamemode creative
+[22:05:42] [Server thread/INFO]: [DarthVerna: Set own game mode to Creative Mode]
+[22:05:48] [Server thread/INFO]: DarthVerna issued server command: /tp DarthVerna krakauder
+[22:05:48] [Server thread/INFO]: [DarthVerna: Teleported DarthVerna to krakauder]
+[22:07:04] [Server thread/INFO]: DarthVerna lost connection: Disconnected
+[22:07:05] [Server thread/INFO]: DarthVerna left the game
+[22:07:19] [Server thread/INFO]: krakauder lost connection: Disconnected
+[22:07:19] [Server thread/INFO]: krakauder left the game
+[22:07:37] [Server thread/INFO]: Stopping the server
+[22:07:37] [Server thread/INFO]: Stopping server
+[22:07:37] [Server thread/INFO]: Saving players
+[22:07:38] [Server thread/INFO]: Saving worlds
+[22:07:38] [Server thread/INFO]: Saving chunks for level '29092018Server_the_end'/minecraft:the_end
+[22:07:38] [Server thread/INFO]: Saving chunks for level '29092018Server_nether'/minecraft:the_nether
+[22:07:38] [Server thread/INFO]: Saving chunks for level '29092018Server'/minecraft:overworld

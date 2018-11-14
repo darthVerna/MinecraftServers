@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-10-13 20:18:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-09-29 18:19:41 +0200"
@@ -306,13 +312,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-09-29 18:58:35 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-09-29 18:58:35 +0200"
     },
@@ -377,6 +383,13 @@
       "has_bed": "2018-09-29 18:25:21 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2018-10-13 20:20:34 +0200",
+      "minecraft:pig": "2018-10-13 20:20:03 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -897,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2018-10-13 20:21:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2018-09-29 20:31:46 +0200"
@@ -1073,8 +1092,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-09-29 18:08:00 +0200",
       "minecraft:mountains": "2018-09-29 18:14:08 +0200",
+      "minecraft:forest": "2018-09-29 18:08:00 +0200",
       "minecraft:dark_forest": "2018-09-29 18:39:28 +0200",
       "minecraft:river": "2018-09-29 18:09:36 +0200",
       "minecraft:wooded_mountains": "2018-09-29 18:34:28 +0200",
@@ -1113,6 +1132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2018-10-13 20:21:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2018-09-29 20:27:14 +0200"
@@ -1134,6 +1159,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2018-09-29 20:31:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2018-10-13 20:18:28 +0200"
     },
     "done": true
   },
@@ -1179,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2018-10-13 20:19:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-09-29 18:05:27 +0200"
@@ -1200,6 +1237,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-09-29 18:20:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2018-10-13 20:20:03 +0200"
     },
     "done": true
   },
@@ -1266,6 +1309,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2018-09-29 18:05:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2018-10-13 20:21:52 +0200"
     },
     "done": true
   },
